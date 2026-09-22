@@ -6,5 +6,4 @@ updating read me
 hellooo i m kavya.
 
 
-</br>
-updating from initial repo
+this is updated code
